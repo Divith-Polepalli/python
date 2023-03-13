@@ -1,1 +1,2 @@
-# python - Add Python
+# python
+print "the world is flat"
